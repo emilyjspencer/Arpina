@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+
+h1 {
+    font-family: Dancing Script;
+    border: solid 2px gray;
+    width: 200px;
+    margin: auto;
+    box-shadow: 2px 5px;
+    padding: 20px;
+  }
+  
+  h4 {
+    font-family: Dancing Script, cursive;
+    box-shadow: 1px 3px;
+    margin: auto;
+    width: 250px;
+    box-shadow: 3px 7px;
+    border: solid 2px gray;
+  }
