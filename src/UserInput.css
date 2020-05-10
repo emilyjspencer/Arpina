@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+
+#input {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    width: 140px;
+    height: 30px;
+    font-family: Dancing Script;
+}
+
+button {
+    font-family: Dancing Script;
+}
